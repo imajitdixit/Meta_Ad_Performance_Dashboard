@@ -3,7 +3,7 @@ This dataset represents Meta Ads Performance Data, covering campaigns, ads, user
 
 # 📊 Meta Ads Performance Analysis & Dashboard
 <img width="500" height="500" alt="Screenshot 2025-10-15 175233" src="https://github.com/imajitdixit/Meta_Ad_Performance_Dashboard/blob/main/facebook.png" />
-<img width="500" height="500" alt="Screenshot 2025-10-15 175321" src="https://github.com/imajitdixit/Meta_Ad_Performance_Dashboard/blob/main/facebook.png" />" 
+<img width="500" height="500" alt="Screenshot 2025-10-15 175321" src="https://github.com/imajitdixit/Meta_Ad_Performance_Dashboard/blob/main/Performance%20metrics.png" />" 
 <img width="500" height="500" alt="Screenshot 2025-10-15 175321" src="https://github.com/imajitdixit/Meta_Ad_Performance_Dashboard/blob/main/instagram.png" />
 <img width="500" height="500"  alt="Screenshot 2025-10-15 180400" src="https://github.com/imajitdixit/Meta_Ad_Performance_Dashboard/blob/main/Model.png" />
 
